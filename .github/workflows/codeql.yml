@@ -64,7 +64,6 @@ jobs:
 
 
     # Autobuild attempts to build any compiled languages (C/C++, C#, Go, Java, or Swift).
-    
     - name: Autobuild
       uses: github/codeql-action/autobuild@v3
 
